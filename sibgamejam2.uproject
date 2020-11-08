@@ -6,48 +6,63 @@
 	"Plugins": [
 		{
 			"Name": "AutoSizeComments",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ae89a2c4ab384de0a3f213b23de324f3"
 		},
 		{
 			"Name": "ConsoleEnhanced",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/86123c85a4474d609c5cef8a7fc5786b"
 		},
 		{
 			"Name": "GraphFormatter",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/297159d6d3f4425b9c095b18a811a401"
 		},
 		{
 			"Name": "Linter",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ca0639af6339476da86fa3bcf15de8ec"
 		},
 		{
 			"Name": "OptickPlugin",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/95c078f6fa924b2b82fd8f281e04850f"
 		},
 		{
 			"Name": "ProjectVersionFromGit",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/59246af04cae4760be3934baebaef588"
 		},
 		{
 			"Name": "PTMTool",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/946185f2400d4be9b8d4190e95df86c8"
 		},
 		{
 			"Name": "QuickCommands",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d99b947e097b499985694cec86592660"
 		},
 		{
 			"Name": "Restart",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1bf89025ddf246e3af3c196d0426e0d3"
+		},
+		{
+			"Name": "ElectronicNodes",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5cb2a394d0c04e73891762be4cbd7216"
+		},
+		{
+			"Name": "NodeGraphAssistant",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d9baaaeadeaf41dcb52b3f6e134e9514"
+		},
+		{
+			"Name": "ST_ExportPNG",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/230db584ce5749f284945d3286c745fa"
 		}
 	],
 	"TargetPlatforms": [
